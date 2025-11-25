@@ -1,0 +1,5 @@
+{
+  "name": "TV9 Flappy Face",
+  "description": "A satirical Flappy Bird clone where you navigate a face through columns of TV9 logos. Features AI-powered news anchor commentary on your score.",
+  "requestFramePermissions": []
+}
